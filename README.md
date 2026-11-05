@@ -1,5 +1,3 @@
-[Anchor_app_code.html.html](https://github.com/user-attachments/files/34417138/Anchor_app_code.html.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
